@@ -1,0 +1,322 @@
+Mono path[0] = 'D:/UnityProjects/SGMulti/Builds/TestBatchmode_Data/Managed'
+Mono path[1] = 'D:/UnityProjects/SGMulti/Builds/TestBatchmode_Data/Mono'
+Mono config path = 'D:/UnityProjects/SGMulti/Builds/TestBatchmode_Data/Mono/etc'
+PlayerConnection initialized from D:/UnityProjects/SGMulti/Builds/TestBatchmode_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55442
+Multi-casting "[IP] 192.168.0.63 [Port] 55442 [Flags] 3 [Guid] 3069945342 [EditorId] 3515668636 [Version] 1048832 [Id] WindowsPlayer(TylerDesktop-PC) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.0.63:55442]...
+PlayerConnection accepted from [192.168.0.63] handle:0x1b8
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56342
+PlayerConnection already initialized - listening to [192.168.0.63:55442]
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+Forcing GfxDevice: Null
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.065 seconds
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\System.dll (this message is harmless)
+Mono path[0] = 'D:/UnityProjects/SGMulti/Builds/TestBatchmode_Data/Managed'
+Mono path[1] = 'D:/UnityProjects/SGMulti/Builds/TestBatchmode_Data/Mono'
+Mono config path = 'D:/UnityProjects/SGMulti/Builds/TestBatchmode_Data/Mono/etc'
+PlayerConnection initialized from D:/UnityProjects/SGMulti/Builds/TestBatchmode_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55498
+Multi-casting "[IP] 192.168.0.63 [Port] 55498 [Flags] 3 [Guid] 3789107020 [EditorId] 3515668636 [Version] 1048832 [Id] WindowsPlayer(TylerDesktop-PC) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.0.63:55498]...
+PlayerConnection accepted from [192.168.0.63] handle:0x1b8
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56020
+PlayerConnection already initialized - listening to [192.168.0.63:55498]
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     1969 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.061 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Console Started, connecting to steam.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ConsoleManager:Awake() (at D:\UnityProjects\SGMulti\Assets\Scripts\Console\ConsoleManager.cs:33)
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineGameObjectBindings.gen.cs:404)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineGameObjectBindings.gen.cs:409)
+GameManager:Start() (at D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\GameManager.cs:25)
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Scripts/Console/ConsoleManager.cs Line: 33)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 14ec -> priority: 1 
+Connected to Steam Servers!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SGMulti.GServer:OnSteamServersConnected(SteamServersConnected_t) (at D:\UnityProjects\SGMulti\Assets\Standard Assets\Scripts\SGMulti\GServer.cs:152)
+Steamworks.Callback`1:OnRunCallback(IntPtr, IntPtr) (at D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\CallbackDispatcher.cs:140)
+Steamworks.NativeMethods:SteamGameServer_RunCallbacks()
+Steamworks.GameServer:RunCallbacks() (at D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:148)
+SGMulti.GServer:Update() (at D:\UnityProjects\SGMulti\Assets\Standard Assets\Scripts\SGMulti\GServer.cs:530)
+ServerImplmentation:Update() (at D:\UnityProjects\SGMulti\Assets\Scripts\SGMulti\ServerImplmentation.cs:121)
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Standard Assets/Scripts/SGMulti/GServer.cs Line: 152)
+
+Steam logged in successfully! Vac Secure: True
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.Debug:LogFormat(String, Object[])
+SGMulti.GServer:OnPolicyResponse(GSPolicyResponse_t) (at D:\UnityProjects\SGMulti\Assets\Standard Assets\Scripts\SGMulti\GServer.cs:222)
+Steamworks.Callback`1:OnRunCallback(IntPtr, IntPtr) (at D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\CallbackDispatcher.cs:140)
+Steamworks.NativeMethods:SteamGameServer_RunCallbacks()
+Steamworks.GameServer:RunCallbacks() (at D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:148)
+SGMulti.GServer:Update() (at D:\UnityProjects\SGMulti\Assets\Standard Assets\Scripts\SGMulti\GServer.cs:530)
+ServerImplmentation:Update() (at D:\UnityProjects\SGMulti\Assets\Scripts\SGMulti\ServerImplmentation.cs:121)
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Standard Assets/Scripts/SGMulti/GServer.cs Line: 222)
+
+<RI> Initialized touch support.
+Platform assembly: D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2838 -> priority: 1 
+Found Server. Server Name: TestServer Server Passworded: False Server Ping: 33
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.Debug:LogFormat(String, Object[])
+SGMulti.GClient:SteamMatchmakingServerListResponse_ServerResponded(HServerListRequest, Int32) (at D:\UnityProjects\SGMulti\Assets\Standard Assets\Scripts\SGMulti\GClient.cs:215)
+Steamworks.ISteamMatchmakingServerListResponse:InternalOnServerResponded(IntPtr, HServerListRequest, Int32) (at D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\ISteamMatchmakingResponses.cs:94)
+Steamworks.NativeMethods:SteamAPI_RunCallbacks()
+Steamworks.SteamAPI:RunCallbacks() (at D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:77)
+SGMulti.GClient:Update() (at D:\UnityProjects\SGMulti\Assets\Standard Assets\Scripts\SGMulti\GClient.cs:387)
+GameManager:Update() (at D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\GameManager.cs:128)
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Standard Assets/Scripts/SGMulti/GClient.cs Line: 215)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Steamworks.ISteamMatchmakingServerListResponse.InternalOnRefreshComplete (IntPtr thisptr, HServerListRequest hRequest, EMatchMakingServerResponse response) [0x00000] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\ISteamMatchmakingResponses.cs:100 
+  at (wrapper managed-to-native) Steamworks.NativeMethods:SteamAPI_RunCallbacks ()
+  at Steamworks.SteamAPI.RunCallbacks () [0x00005] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:77 
+  at SGMulti.GClient.Update () [0x0021f] in D:\UnityProjects\SGMulti\Assets\Standard Assets\Scripts\SGMulti\GClient.cs:387 
+  at GameManager.Update () [0x0000b] in D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\GameManager.cs:128 
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Plugins/Steamworks.NET/ISteamMatchmakingResponses.cs Line: 100)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Steamworks.ISteamMatchmakingServerListResponse.InternalOnRefreshComplete (IntPtr thisptr, HServerListRequest hRequest, EMatchMakingServerResponse response) [0x00000] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\ISteamMatchmakingResponses.cs:100 
+  at (wrapper managed-to-native) Steamworks.NativeMethods:SteamAPI_RunCallbacks ()
+  at Steamworks.SteamAPI.RunCallbacks () [0x00005] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:77 
+  at SteamManager.Update () [0x0000c] in D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\SteamManager.cs:147 
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Plugins/Steamworks.NET/ISteamMatchmakingResponses.cs Line: 100)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Steamworks.ISteamMatchmakingServerListResponse.InternalOnRefreshComplete (IntPtr thisptr, HServerListRequest hRequest, EMatchMakingServerResponse response) [0x00000] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\ISteamMatchmakingResponses.cs:100 
+  at (wrapper managed-to-native) Steamworks.NativeMethods:SteamAPI_RunCallbacks ()
+  at Steamworks.SteamAPI.RunCallbacks () [0x00005] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:77 
+  at SGMulti.GClient.Update () [0x0021f] in D:\UnityProjects\SGMulti\Assets\Standard Assets\Scripts\SGMulti\GClient.cs:387 
+  at GameManager.Update () [0x0000b] in D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\GameManager.cs:128 
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Plugins/Steamworks.NET/ISteamMatchmakingResponses.cs Line: 100)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Steamworks.ISteamMatchmakingServerListResponse.InternalOnRefreshComplete (IntPtr thisptr, HServerListRequest hRequest, EMatchMakingServerResponse response) [0x00000] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\ISteamMatchmakingResponses.cs:100 
+  at (wrapper managed-to-native) Steamworks.NativeMethods:SteamAPI_RunCallbacks ()
+  at Steamworks.SteamAPI.RunCallbacks () [0x00005] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:77 
+  at SteamManager.Update () [0x0000c] in D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\SteamManager.cs:147 
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Plugins/Steamworks.NET/ISteamMatchmakingResponses.cs Line: 100)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Steamworks.ISteamMatchmakingServerListResponse.InternalOnRefreshComplete (IntPtr thisptr, HServerListRequest hRequest, EMatchMakingServerResponse response) [0x00000] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\ISteamMatchmakingResponses.cs:100 
+  at (wrapper managed-to-native) Steamworks.NativeMethods:SteamAPI_RunCallbacks ()
+  at Steamworks.SteamAPI.RunCallbacks () [0x00005] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:77 
+  at SGMulti.GClient.Update () [0x0021f] in D:\UnityProjects\SGMulti\Assets\Standard Assets\Scripts\SGMulti\GClient.cs:387 
+  at GameManager.Update () [0x0000b] in D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\GameManager.cs:128 
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Plugins/Steamworks.NET/ISteamMatchmakingResponses.cs Line: 100)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Steamworks.ISteamMatchmakingServerListResponse.InternalOnRefreshComplete (IntPtr thisptr, HServerListRequest hRequest, EMatchMakingServerResponse response) [0x00000] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\ISteamMatchmakingResponses.cs:100 
+  at (wrapper managed-to-native) Steamworks.NativeMethods:SteamAPI_RunCallbacks ()
+  at Steamworks.SteamAPI.RunCallbacks () [0x00005] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:77 
+  at SteamManager.Update () [0x0000c] in D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\SteamManager.cs:147 
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Plugins/Steamworks.NET/ISteamMatchmakingResponses.cs Line: 100)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Steamworks.ISteamMatchmakingServerListResponse.InternalOnRefreshComplete (IntPtr thisptr, HServerListRequest hRequest, EMatchMakingServerResponse response) [0x00000] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\ISteamMatchmakingResponses.cs:100 
+  at (wrapper managed-to-native) Steamworks.NativeMethods:SteamAPI_RunCallbacks ()
+  at Steamworks.SteamAPI.RunCallbacks () [0x00005] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:77 
+  at SGMulti.GClient.Update () [0x0021f] in D:\UnityProjects\SGMulti\Assets\Standard Assets\Scripts\SGMulti\GClient.cs:387 
+  at GameManager.Update () [0x0000b] in D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\GameManager.cs:128 
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Plugins/Steamworks.NET/ISteamMatchmakingResponses.cs Line: 100)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Steamworks.ISteamMatchmakingServerListResponse.InternalOnRefreshComplete (IntPtr thisptr, HServerListRequest hRequest, EMatchMakingServerResponse response) [0x00000] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\ISteamMatchmakingResponses.cs:100 
+  at (wrapper managed-to-native) Steamworks.NativeMethods:SteamAPI_RunCallbacks ()
+  at Steamworks.SteamAPI.RunCallbacks () [0x00005] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:77 
+  at SteamManager.Update () [0x0000c] in D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\SteamManager.cs:147 
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Plugins/Steamworks.NET/ISteamMatchmakingResponses.cs Line: 100)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Steamworks.ISteamMatchmakingServerListResponse.InternalOnRefreshComplete (IntPtr thisptr, HServerListRequest hRequest, EMatchMakingServerResponse response) [0x00000] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\ISteamMatchmakingResponses.cs:100 
+  at (wrapper managed-to-native) Steamworks.NativeMethods:SteamAPI_RunCallbacks ()
+  at Steamworks.SteamAPI.RunCallbacks () [0x00005] in D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:77 
+  at SGMulti.GClient.Update () [0x0021f] in D:\UnityProjects\SGMulti\Assets\Standard Assets\Scripts\SGMulti\GClient.cs:387 
+  at GameManager.Update () [0x0000b] in D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\GameManager.cs:128 
+ 
+(Filename: D:/UnityProjects/SGMulti/Assets/Plugins/Steamworks.NET/ISteamMatchmakingResponses.cs Line: 100)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;D:\UnityProjects\SGMulti\Builds;D:\UnityProjects\SGMulti\Builds;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'TylerDesktop'
+OS-Version: 6.1.7601 (Service Pack 1) 0x100-0x1
+D:\UnityProjects\SGMulti\Builds\TestBatchmode.exe:TestBatchmode.exe (000000013FAB0000), size: 25243648 (result: 0), SymType: 'PDB', PDB: '.\player_win_development_x64.pdb', fileVersion: 5.2.0.38013
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (0000000076D10000), size: 1740800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 6.1.7601.19045
+C:\Windows\system32\kernel32.dll:kernel32.dll (0000000076AF0000), size: 1179648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\kernel32.dll', fileVersion: 6.1.7601.19045
+C:\Windows\system32\KERNELBASE.dll:KERNELBASE.dll (000007FEFCDC0000), size: 442368 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\KERNELBASE.dll', fileVersion: 6.1.7601.19045
+C:\Windows\system32\HID.DLL:HID.DLL (000007FEFACC0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\msvcrt.dll:msvcrt.dll (000007FEFE870000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\msvcrt.dll', fileVersion: 7.0.7601.17744
+C:\Windows\system32\WS2_32.dll:WS2_32.dll (000007FEFEEE0000), size: 315392 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WS2_32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\RPCRT4.dll:RPCRT4.dll (000007FEFD030000), size: 1232896 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\RPCRT4.dll', fileVersion: 6.1.7601.19045
+C:\Windows\system32\NSI.dll:NSI.dll (000007FEFEF30000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\NSI.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\USER32.dll:USER32.dll (0000000076C10000), size: 1024000 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\USER32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\GDI32.dll:GDI32.dll (000007FEFD570000), size: 421888 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\GDI32.dll', fileVersion: 6.1.7601.18898
+C:\Windows\system32\LPK.dll:LPK.dll (000007FEFE910000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\LPK.dll', fileVersion: 6.1.7601.18985
+C:\Windows\system32\USP10.dll:USP10.dll (000007FEFCEC0000), size: 823296 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\USP10.dll', fileVersion: 1.626.7601.18454
+C:\Windows\system32\VERSION.dll:VERSION.dll (000007FEFBB80000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\ole32.dll:ole32.dll (000007FEFECD0000), size: 2109440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ole32.dll', fileVersion: 6.1.7601.18915
+C:\Windows\system32\SHLWAPI.dll:SHLWAPI.dll (000007FEFEFA0000), size: 462848 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\SHLWAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\PSAPI.DLL:PSAPI.DLL (0000000076EE0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\PSAPI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\ADVAPI32.dll:ADVAPI32.dll (000007FEFD5E0000), size: 897024 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ADVAPI32.dll', fileVersion: 6.1.7601.18939
+C:\Windows\SYSTEM32\sechost.dll:sechost.dll (000007FEFE850000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\sechost.dll', fileVersion: 6.1.7601.18869
+C:\Windows\system32\SHELL32.dll:SHELL32.dll (000007FEFD6C0000), size: 14192640 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\SHELL32.dll', fileVersion: 6.1.7601.18952
+C:\Windows\system32\OPENGL32.dll:OPENGL32.dll (000007FEED800000), size: 1167360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\OPENGL32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\GLU32.dll:GLU32.dll (000007FEEDFE0000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\GLU32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DDRAW.dll:DDRAW.dll (000007FEED700000), size: 987136 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DDRAW.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DCIMAN32.dll:DCIMAN32.dll (000007FEEDFD0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DCIMAN32.dll', fileVersion: 6.1.7601.18985
+C:\Windows\system32\SETUPAPI.dll:SETUPAPI.dll (000007FEFD160000), size: 1929216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\SETUPAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\CFGMGR32.dll:CFGMGR32.dll (000007FEFCE30000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\CFGMGR32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\OLEAUT32.dll:OLEAUT32.dll (000007FEFEBF0000), size: 880640 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\OLEAUT32.dll', fileVersion: 6.1.7601.18679
+C:\Windows\system32\DEVOBJ.dll:DEVOBJ.dll (000007FEFCCA0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DEVOBJ.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (000007FEFACA0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 6.1.7601.18917
+C:\Windows\system32\WINMM.dll:WINMM.dll (000007FEF91E0000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINMM.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSACM32.dll:MSACM32.dll (000007FEF5040000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSACM32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\IMM32.dll:IMM32.dll (000007FEFCE90000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\IMM32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSCTF.dll:MSCTF.dll (000007FEFD3C0000), size: 1085440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSCTF.dll', fileVersion: 6.1.7601.18731
+C:\Windows\system32\DNSAPI.dll:DNSAPI.dll (000007FEFBFE0000), size: 372736 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DNSAPI.dll', fileVersion: 6.1.7601.17570
+C:\Windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (000007FEFA610000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\IPHLPAPI.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\WINNSI.DLL:WINNSI.DLL (000007FEFA5F0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINNSI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINHTTP.dll:WINHTTP.dll (000007FEF5110000), size: 462848 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINHTTP.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\webio.dll:webio.dll (000007FEF50A0000), size: 409600 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\webio.dll', fileVersion: 6.1.7601.17725
+D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Mono\mono.dll:mono.dll (000007FEE5AC0000), size: 2990080 (result: 0), SymType: '-exported-', PDB: 'D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\Windows\system32\MSWSOCK.dll:MSWSOCK.dll (000007FEFC210000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSWSOCK.dll', fileVersion: 6.1.7601.18254
+C:\Windows\System32\wshtcpip.dll:wshtcpip.dll (000007FEFBFB0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\wshtcpip.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (000007FEFA4F0000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc6.DLL', fileVersion: 6.1.7601.17970
+C:\Windows\system32\dhcpcsvc.DLL:dhcpcsvc.DLL (000007FEFA470000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\NLAapi.dll:NLAapi.dll (000007FEFA920000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\NLAapi.dll', fileVersion: 6.1.7601.17964
+C:\Windows\system32\napinsp.dll:napinsp.dll (000007FEEDF00000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\napinsp.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\pnrpnsp.dll:pnrpnsp.dll (000007FEEDC30000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\pnrpnsp.dll', fileVersion: 6.1.7600.16385
+C:\Windows\System32\winrnr.dll:winrnr.dll (000007FEEDEF0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\winrnr.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\CRYPTBASE.dll:CRYPTBASE.dll (000007FEFC8F0000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\CRYPTBASE.dll', fileVersion: 6.1.7601.19045
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (000007FEFB4B0000), size: 352256 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\d3d11.dll:d3d11.dll (000007FEF9780000), size: 1921024 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d11.dll', fileVersion: 6.2.9200.16570
+C:\Windows\system32\dxgi.dll:dxgi.dll (000007FEF9960000), size: 380928 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dxgi.dll', fileVersion: 6.2.9200.16492
+C:\Windows\system32\DXGIDebug.dll:DXGIDebug.dll (000007FEF9750000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DXGIDebug.dll', fileVersion: 9.30.9600.17336
+C:\Windows\system32\WINTRUST.dll:WINTRUST.dll (000007FEFCC50000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINTRUST.dll', fileVersion: 6.1.7601.18839
+C:\Windows\system32\CRYPT32.dll:CRYPT32.dll (000007FEFCAD0000), size: 1495040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\CRYPT32.dll', fileVersion: 6.1.7601.18839
+C:\Windows\system32\MSASN1.dll:MSASN1.dll (000007FEFCAB0000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSASN1.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\nvwgf2umx.dll:nvwgf2umx.dll (000007FEF76B0000), size: 17096704 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvwgf2umx.dll', fileVersion: 10.18.13.5560
+C:\Windows\system32\bcrypt.dll:bcrypt.dll (000007FEFC3E0000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\bcrypt.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\d3d9.dll:d3d9.dll (000007FEED230000), size: 2093056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d9.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\d3d8thk.dll:d3d8thk.dll (000007FEEDF20000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d8thk.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\bcryptprimitives.dll:bcryptprimitives.dll (000007FEFBF60000), size: 311296 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\bcryptprimitives.dll', fileVersion: 6.1.7601.19012
+C:\Windows\system32\MMDevAPI.DLL:MMDevAPI.DLL (000007FEFB1E0000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MMDevAPI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\PROPSYS.dll:PROPSYS.dll (000007FEFB510000), size: 1228800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\PROPSYS.dll', fileVersion: 7.0.7601.17514
+C:\Windows\system32\wdmaud.drv:wdmaud.drv (000007FEF5060000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wdmaud.drv', fileVersion: 6.1.7601.17514
+C:\Windows\system32\ksuser.dll:ksuser.dll (0000000071880000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ksuser.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\AVRT.dll:AVRT.dll (000007FEFB1D0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\AVRT.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\AUDIOSES.DLL:AUDIOSES.DLL (000007FEF7430000), size: 323584 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\AUDIOSES.DLL', fileVersion: 6.1.7601.18741
+C:\Windows\system32\msacm32.drv:msacm32.drv (000007FEF7540000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\msacm32.drv', fileVersion: 6.1.7600.16385
+C:\Windows\system32\midimap.dll:midimap.dll (000007FEF5030000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\midimap.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dsound.dll:dsound.dll (000007FEF74B0000), size: 557056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dsound.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\POWRPROF.dll:POWRPROF.dll (000007FEFB230000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\POWRPROF.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\CLBCatQ.DLL:CLBCatQ.DLL (000007FEFD4D0000), size: 626688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\CLBCatQ.DLL', fileVersion: 2001.12.8530.16385
+C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_fa3b1e3d17594757\comctl32.dll:comctl32.dll (000007FEFB690000), size: 2048000 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_fa3b1e3d17594757\comctl32.dll', fileVersion: 6.10.7601.18837
+C:\Windows\system32\xinput1_3.dll:xinput1_3.dll (0000000005A10000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\xinput1_3.dll', fileVersion: 9.18.944.0
+D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Plugins\CSteamworks.dll:CSteamworks.dll (000007FEEEBC0000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'D:\UnityProjects\SGMulti\Builds\TestBatchmode_Data\Plugins\CSteamworks.dll', fileVersion: 1.25.0.0
+D:\UnityProjects\SGMulti\Builds\steam_api64.dll:steam_api64.dll (000000003AF00000), size: 225280 (result: 0), SymType: '-exported-', PDB: 'D:\UnityProjects\SGMulti\Builds\steam_api64.dll', fileVersion: 3.3.47.38
+C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (0000000037B80000), size: 12767232 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamclient64.dll', fileVersion: 3.9.53.23
+C:\Windows\system32\imagehlp.dll:imagehlp.dll (000007FEFCE70000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\imagehlp.dll', fileVersion: 6.1.7601.18288
+C:\Program Files (x86)\Steam\tier0_s64.dll:tier0_s64.dll (000000003E050000), size: 1982464 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\tier0_s64.dll', fileVersion: 3.9.53.23
+C:\Program Files (x86)\Steam\vstdlib_s64.dll:vstdlib_s64.dll (000000003E6F0000), size: 409600 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\vstdlib_s64.dll', fileVersion: 3.9.53.23
+C:\Windows\system32\Secur32.dll:Secur32.dll (000007FEFC840000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\Secur32.dll', fileVersion: 6.1.7601.19045
+C:\Windows\system32\SSPICLI.DLL:SSPICLI.DLL (000007FEFC880000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\SSPICLI.DLL', fileVersion: 6.1.7601.19045
+C:\Windows\system32\CRYPTSP.dll:CRYPTSP.dll (000007FEFC4A0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\CRYPTSP.dll', fileVersion: 6.1.7601.18741
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (000007FEFBEB0000), size: 290816 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 6.1.7600.16385
+C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (000007FEE7000000), size: 1740800 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll', fileVersion: 3.9.53.23
+C:\Program Files (x86)\Steam\crashhandler64.dll:crashhandler64.dll (000007FEE8DB0000), size: 2035712 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\crashhandler64.dll', fileVersion: 3.9.53.23
+C:\Windows\system32\WININET.dll:WININET.dll (000007FEFE5E0000), size: 2527232 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WININET.dll', fileVersion: 11.0.9600.18098
+C:\Windows\system32\api-ms-win-downlevel-user32-l1-1-0.dll:api-ms-win-downlevel-user32-l1-1-0.dll (000007FEFCC90000), size: 16384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\api-ms-win-downlevel-user32-l1-1-0.dll', fileVersion: 6.2.9200.16492
+C:\Windows\system32\api-ms-win-downlevel-shlwapi-l1-1-0.dll:api-ms-win-downlevel-shlwapi-l1-1-0.dll (000007FEFCD00000), size: 16384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\api-ms-win-downlevel-shlwapi-l1-1-0.dll', fileVersion: 6.2.9200.16492
+C:\Windows\system32\api-ms-win-downlevel-version-l1-1-0.dll:api-ms-win-downlevel-version-l1-1-0.dll (000007FEFCC40000), size: 16384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\api-ms-win-downlevel-version-l1-1-0.dll', fileVersion: 6.2.9200.16492
+C:\Windows\system32\api-ms-win-downlevel-normaliz-l1-1-0.dll:api-ms-win-downlevel-normaliz-l1-1-0.dll (000007FEFCCD0000), size: 12288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\api-ms-win-downlevel-normaliz-l1-1-0.dll', fileVersion: 6.2.9200.16492
+C:\Windows\system32\normaliz.DLL:normaliz.DLL (0000000076ED0000), size: 12288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\normaliz.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\iertutil.dll:iertutil.dll (000007FEFE920000), size: 2912256 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\iertutil.dll', fileVersion: 11.0.9600.18098
+C:\Windows\system32\api-ms-win-downlevel-advapi32-l1-1-0.dll:api-ms-win-downlevel-advapi32-l1-1-0.dll (000007FEFCCC0000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\api-ms-win-downlevel-advapi32-l1-1-0.dll', fileVersion: 6.2.9200.16492
+C:\Windows\system32\USERENV.dll:USERENV.dll (000007FEFCCE0000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\USERENV.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\profapi.dll:profapi.dll (000007FEFCAC0000), size: 61440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\profapi.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dbghelp.dll:dbghelp.dll (000007FEFA090000), size: 1200128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+
+========== OUTPUTING STACK TRACE ==================
+
+0x0000000037C4E44D (steamclient64) hid_open
+0x0000000037C49C2D (steamclient64) hid_open
+0x0000000037F55696 (steamclient64) Steam_GSSendUserStatusResponse
+0x000000003AF05804 (steam_api64) SteamAPI_RunCallbacks
+0x00000000059129C5 (Mono JIT Code) (wrapper managed-to-native) Steamworks.NativeMethods:SteamAPI_RunCallbacks ()
+0x00000000059128AF (Mono JIT Code) [D:\UnityProjects\SGMulti\Assets\Plugins\Steamworks.NET\Steam.cs:77] Steamworks.SteamAPI:RunCallbacks () 
+0x0000000005912AA1 (Mono JIT Code) [D:\UnityProjects\SGMulti\Assets\Scripts\Steamwork.NET\SteamManager.cs:147] SteamManager:Update () 
+0x00000000058EEF72 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x000007FEE5BE402F (mono) mono_set_defaults
+0x000007FEE5B38399 (mono) mono_runtime_invoke
+0x000000013FD98AC5 (TestBatchmode) ScriptingInvocationNoArgs::Invoke
+0x000000013FD987D7 (TestBatchmode) ScriptingInvocationNoArgs::Invoke
+0x000000013FC83150 (TestBatchmode) MonoBehaviour::CallMethodIfAvailable
+0x000000013FC85C9A (TestBatchmode) MonoBehaviour::Update
+0x000000013FC50D0F (TestBatchmode) BaseBehaviourManager::CommonUpdate<BehaviourManager>
+0x000000013FD44D04 (TestBatchmode) PlayerLoop
+0x000000013FE85A60 (TestBatchmode) PlayerMainWndProc
+0x000000013FE896A3 (TestBatchmode) PlayerWinMain
+0x00000001403836EC (TestBatchmode) stricmp
+0x0000000076B05A4D (kernel32) BaseThreadInitThunk
+0x0000000076D3B831 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
